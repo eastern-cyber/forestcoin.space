@@ -8,8 +8,8 @@
 function config($key = '')
 {
     $config = array(
-        'name' => 'Simple PHP Website',
-        'site_url' => 'https://easterncyber.com/',
+        'name' => 'ForestCoin.Space',
+        'site_url' => 'https://forestcoin.space/',
         'pretty_uri' => true,
         'nav_menu' => array(
             '' => 'Home',
