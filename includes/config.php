@@ -9,7 +9,7 @@ function config($key = '')
 {
     $config = array(
         'name' => 'ForestCoin.Space',
-        'site_url' => 'https://forestcoin.space/',
+        'site_url' => 'https://forestcoin.space',
         'pretty_uri' => true,
         'nav_menu' => array(
             '' => 'Home',
